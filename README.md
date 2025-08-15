@@ -30,7 +30,7 @@
   <h3 align="left">Frameworks and Tools:</h3>
   
   <div align="left">
-    <a href="" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/liquid-glass/48/github.png" alt="github"/> </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img width="48" height="48" src="https://img.icons8.com/liquid-glass/48/github.png" alt="github"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
